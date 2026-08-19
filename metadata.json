@@ -1,0 +1,6 @@
+{
+  "name": "BB Beauty Pro - Luxury Makeup Artistry & Lipgloss Boutique",
+  "description": "High-end luxury makeup artist and lipgloss e-commerce storefront with bespoke bridal bookings, editorial portfolio, online store, cart drawer, checkout, and merchant CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
